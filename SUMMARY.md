@@ -43,7 +43,7 @@
       * [6.1.4.3 Implementierung](6-umsetzung/6.1-webseite/6.1.4-authentifizierung/6.1.4.3-implementierung.md)
     * [6.1.5 Authorisierung](6-umsetzung/6.1-webseite/6.1.5-authorisierung.md)
     * [6.1.6 Files](6-umsetzung/6.1-webseite/6.1.6-files.md)
-    * [6.1.7 Spezialkomponenten](6-umsetzung/6.1-webseite/6.1.7-spezialkomponenten.md)
+    * [6.1.7 Spezialkomponenten](6-umsetzung/6.1-webseite/6.1.7-3d-viewer.md)
   * [6.2 REST API](6-umsetzung/6.2-rest-api/README.md)
     * [6.2.1 Ressourcen](6-umsetzung/6.2-rest-api/6.2.1-ressourcen.md)
     * [6.2.2 Errorhandling](6-umsetzung/6.2-rest-api/6.2.2-errorhandling.md)

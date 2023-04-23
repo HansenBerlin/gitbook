@@ -48,7 +48,7 @@
     * [6.1.7 Spezialkomponenten](6-umsetzung/6.1-webseite/6.1.7-3d-viewer.md)
   * [6.2 REST API](6-umsetzung/6.2-rest-api/README.md)
     * [6.2.1 Ressourcen](6-umsetzung/6.2-rest-api/6.2.1-ressourcen.md)
-    * [6.2.2 Errorhandling](6-umsetzung/6.2-rest-api/6.2.2-errorhandling.md)
+    * [6.2.2 Codebeispiel](6-umsetzung/6.2-rest-api/6.2.2-codebeispiel.md)
 * [7 Deployment](7-deployment.md)
 * [8 Test und Benchmarking](8-test-und-benchmarking.md)
 * [9 Fazit](9-fazit.md)

@@ -35,7 +35,7 @@
       * [6.1.1.1 Guidelines](6-umsetzung/6.1-webseite/6.1.1-visuelles-design-ui/6.1.1.1-guidelines.md)
       * [6.1.1.2 Entwürfe und Entscheidung](6-umsetzung/6.1-webseite/6.1.1-visuelles-design-ui/6.1.1.2-entwuerfe-und-entscheidung.md)
       * [6.1.1.3 Implementierung](6-umsetzung/6.1-webseite/6.1.1-visuelles-design-ui/6.1.1.3-implementierung.md)
-    * [6.1.2 Nutzererfahrung (UX)](6-umsetzung/6.1-webseite/6.1.2-nutzererfahrung-ux/README.md)
+    * [6.1.2 Nutzererfahrung (UX)](6-umsetzung/6.1-webseite/6.1.2-nutzererfahrung-ux.md)
       * [6.1.2.1 Customer User Journey](6-umsetzung/6.1-webseite/6.1.2-nutzererfahrung-ux/6.1.2.1-customer-user-journey.md)
       * [6.1.2.2 Beispiel anhand unserer Webseite](6-umsetzung/6.1-webseite/6.1.2-nutzererfahrung-ux/6.1.2.2-beispiel-anhand-unserer-webseite.md)
     * [6.1.3 Basiskomponenten](6-umsetzung/6.1-webseite/6.1.3-basiskomponenten.md)

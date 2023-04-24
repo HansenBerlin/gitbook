@@ -48,4 +48,4 @@
     * [6.2.1 Ressourcen](6-umsetzung/6.2-rest-api/6.2.1-ressourcen.md)
     * [6.2.2 Codebeispiel](6-umsetzung/6.2-rest-api/6.2.2-codebeispiel.md)
 * [7 Deployment](7-deployment.md)
-* [8 Fazit](8-fazit.md)
+* [8 Fazit](9-fazit.md)

@@ -9,7 +9,6 @@
 * [3 Vorgehen](3-vorgehen/README.md)
   * [3.1 Kollaboration](3-vorgehen/3.1-kollaboration.md)
   * [3.2 Methode/Organisation](3-vorgehen/3.2-methode-organisation.md)
-  * [3.3 Versionierung](3-vorgehen/3.3-versionierung.md)
 * [4 Entwicklungsumgebung](4-entwicklungsumgebung/README.md)
   * [4.1 Entscheidung für Sprachen und Framework](4-entwicklungsumgebung/4.1-entscheidung-fuer-sprachen-und-framework.md)
   * [4.2 Libraries](4-entwicklungsumgebung/4.2-libraries.md)

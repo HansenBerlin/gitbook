@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # 1 Einleitung
 
 Im Wahlpflichtkurs "Programmierung von Webanwendungen" ist es vorgesehen, dass die Leistungserbringung in Form einer Präsentation und einer Dokumentation erfolgt, welche die Entwicklung eines Prototyps für eine Webseite umfasst. &#x20;

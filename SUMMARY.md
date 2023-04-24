@@ -17,7 +17,6 @@
     * [4.4.2 Komponentenbasierte Entwicklung](4-entwicklungsumgebung/4.4-framework-spezifika/4.4.2-komponentenbasierte-entwicklung.md)
     * [4.4.3 JS Interop](4-entwicklungsumgebung/4.4-framework-spezifika/4.4.3-js-interop.md)
     * [4.4.4 SignalR und Websockets](4-entwicklungsumgebung/4.4-framework-spezifika/4.4.4-eventbasierte-entwicklung.md)
-  * [4.5 REST Service Spezifika](4-entwicklungsumgebung/4.5-rest-service-spezifika.md)
 * [5 Architektur](5-architektur/README.md)
   * [5.1 Clean Architecture](5-architektur/5.5-clean-architecture.md)
   * [5.2 Services](5-architektur/5.1-services.md)

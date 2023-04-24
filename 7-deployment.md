@@ -2,7 +2,7 @@
 
 ### Builds in der Pipeline
 
-Builds für dsn Webservice sowie du REST API erfolgen mit Azure Devops. Im Beispiel ist das Script für den Webservice zu sehen. Die Pipeline wird getriggert, sobald in die Branches Development (Beispiel) oder Release (Zeile 2) gemergt wird. Als Artefakt entsteht ein Dockerimage welches ans Hub mit dem entsprechenden Tag hochgeladen wird (Zeile 26).&#x20;
+Builds für den Webservice sowie die REST API erfolgen mit Azure Devops. Im Beispiel ist das Script für den Webservice zu sehen. Die Pipeline wird getriggert, sobald in die Branches Development (Beispiel) oder Release (Zeile 2) gemergt wird. Als Artefakt entsteht ein Dockerimage welches ans Hub mit dem entsprechenden Tag hochgeladen wird (Zeile 26).&#x20;
 
 {% code lineNumbers="true" %}
 ```yaml

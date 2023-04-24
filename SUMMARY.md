@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Projektdoku](README.md)
-* [1 Einleitung](1-einleitung.md)
+* [1 Einleitung](README.md)
 * [2 Anforderungen](2-anforderungen/README.md)
   * [2.1 Funktionale Anforderungen](2-anforderungen/2.1-funktionale-anforderungen.md)
   * [2.2 Nicht funktionale Anforderungen](2-anforderungen/2.2-nicht-funktionale-anforderungen.md)

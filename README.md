@@ -41,3 +41,11 @@ Da sich die Webseite an Nutzer\_innen richtet, welche bereits 3D Druck Erfahrung
 * Slicer:
   * Software, die das 3D-Modell in Schichten aufteilt und den GCode generiert
   * Konfigurationen für Druckparameter wie Geschwindigkeit, Schichtdicke, Temperatur und Stützstrukturen können angepasst werden
+
+### Repositories
+
+Der Code ist in zwei Repositories abgelegt und wird morgen in je einem Branch "Abgabe" eingefroren:
+
+{% embed url="https://github.com/HansenBerlin/ThreeDeeFrontend" %}
+
+{% embed url="https://github.com/HansenBerlin/rust-postgres-rest-sqlx" %}

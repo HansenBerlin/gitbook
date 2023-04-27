@@ -20,7 +20,6 @@
 * [5 Architektur](5-architektur/README.md)
   * [5.1 Clean Architecture](5-architektur/5.5-clean-architecture.md)
   * [5.2 Services](5-architektur/5.1-services.md)
-  * [5.3 Komponenten](5-architektur/5.2-komponenten.md)
   * [5.3 Frontend](5-architektur/5.3-frontend/README.md)
     * [5.3.1 MVVM](5-architektur/5.3-frontend/5.3.1-mvvm.md)
     * [5.3.2 Eventbasierter Ansatz und Nebenläufigkeit](5-architektur/5.3-frontend/5.3.2-eventbasierter-ansatz.md)

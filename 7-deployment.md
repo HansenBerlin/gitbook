@@ -108,7 +108,7 @@ services:
     depends_on:
       - postgres
     environment:
-      - DATABASE_URL=postgresql://admin:password123@192.168.176.2:5432/rust_sqlx?schema=public
+      - DATABASE_URL=
 
   webclient:
     image: hansendockedin/web-app-frontend:latest
@@ -119,10 +119,10 @@ services:
     environment:
       ASPNETCORE_ENVIRONMENT: "Development"
       SERVICE: "http://rest-api:8000/api"
-      GOOGLE_OAUTH_CLIENT_ID: "320557105527-q2nr65cv030mrv9jbtt5j874h8bkpjj1.apps.googleusercontent.com"
-      MICROSOFT_OAUTH_CLIENT_ID: "d169d24c-3f89-4001-b142-71518363781b"
-      GOOGLE_OAUTH_CLIENT_SECRET: "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"
-      MICROSOFT_OAUTH_CLIENT_SECRET: "M9v8Q~yrMtSW40eSQnV.Xbx51ZboqW6ue5i6xcj9"
+      GOOGLE_OAUTH_CLIENT_ID:
+      MICROSOFT_OAUTH_CLIENT_ID: 
+      GOOGLE_OAUTH_CLIENT_SECRET: 
+      MICROSOFT_OAUTH_CLIENT_SECRET:
       SERVICE_URL: "http://rest-api/api"
 
 volumes:
